@@ -1,6 +1,6 @@
-# Code_With_Akash_PYTHON
+# Python-Coding
 
-Welcome to the `Code_With_Akash_PYTHON` repository! This project showcases various Python programs and scripts developed by Akash. It is intended to serve as a resource for learning, experimenting, and sharing Python code.
+Welcome to the `Python-Coding` repository! This project showcases various Python programs and scripts developed by Akash. It is intended to serve as a resource for learning, experimenting, and sharing Python code.
 
 ## Introduction
 
