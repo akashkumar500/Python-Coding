@@ -1,7 +1,7 @@
 from random import randint
 
 # User inputs the password
-u_pwd = input("Enter a password: ")
+u_pwd = input("Enter your desired Character: ")
 
 # List of possible characters in the password (A-Z, a-z, 0-9)
 pwd = list('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')
